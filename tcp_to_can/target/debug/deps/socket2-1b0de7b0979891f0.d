@@ -1,0 +1,11 @@
+E:\work\work_project\实验室技改\tcp_can_test\tcp_to_can\tcp_to_can\target\debug\deps\libsocket2-1b0de7b0979891f0.rmeta: C:\Users\zouzi\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.5.7\src\lib.rs C:\Users\zouzi\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.5.7\src\sockaddr.rs C:\Users\zouzi\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.5.7\src\socket.rs C:\Users\zouzi\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.5.7\src\sockref.rs C:\Users\zouzi\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.5.7\src\sys\windows.rs
+
+E:\work\work_project\实验室技改\tcp_can_test\tcp_to_can\tcp_to_can\target\debug\deps\libsocket2-1b0de7b0979891f0.rlib: C:\Users\zouzi\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.5.7\src\lib.rs C:\Users\zouzi\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.5.7\src\sockaddr.rs C:\Users\zouzi\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.5.7\src\socket.rs C:\Users\zouzi\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.5.7\src\sockref.rs C:\Users\zouzi\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.5.7\src\sys\windows.rs
+
+E:\work\work_project\实验室技改\tcp_can_test\tcp_to_can\tcp_to_can\target\debug\deps\socket2-1b0de7b0979891f0.d: C:\Users\zouzi\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.5.7\src\lib.rs C:\Users\zouzi\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.5.7\src\sockaddr.rs C:\Users\zouzi\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.5.7\src\socket.rs C:\Users\zouzi\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.5.7\src\sockref.rs C:\Users\zouzi\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.5.7\src\sys\windows.rs
+
+C:\Users\zouzi\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.5.7\src\lib.rs:
+C:\Users\zouzi\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.5.7\src\sockaddr.rs:
+C:\Users\zouzi\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.5.7\src\socket.rs:
+C:\Users\zouzi\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.5.7\src\sockref.rs:
+C:\Users\zouzi\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\socket2-0.5.7\src\sys\windows.rs:
