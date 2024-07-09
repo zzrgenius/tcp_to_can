@@ -1,0 +1,24 @@
+//表示继承Text
+component MyText inherits Text{
+
+}
+
+export component MainWindow inherits Window { 
+    //窗体宽度
+    width: 450px;
+    //窗体高度
+    height: 600px;
+
+    //有点类似于html的div
+    Rectangle {
+        width: 300px;
+        height: 300px;
+        //背景颜色
+        background: #FFFFFF;
+    }
+
+    MyText {
+        //显示文字
+        text: "hello  world";
+    }
+}

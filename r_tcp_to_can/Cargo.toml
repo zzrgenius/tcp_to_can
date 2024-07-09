@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
     tokio = { version = "1.38.0", features = ["full"] }
+    slint = "1.6.0"
